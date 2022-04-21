@@ -1,0 +1,3 @@
+﻿  SudokuAIO.cpp
+D:\Projects\C++\SudokuAIO\SudokuAIO\sudokuAIO.h(439): warning C4715: 'uniquePair': not all control paths return a value
+  SudokuAIO.vcxproj -> D:\Projects\C++\SudokuAIO\SudokuAIO\x64\Debug\SudokuAIO.exe

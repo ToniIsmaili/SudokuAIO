@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e598decc-3502-48dd-807d-8fe4d1b1db27": {
+      "ProjectGuid": "e598decc-3502-48dd-807d-8fe4d1b1db27",
+      "DisplayName": "SudokuAIO",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,1 +1,2 @@
 D:\Projects\C++\SudokuAIO\SudokuAIO\x64\Debug\SudokuAIO.exe
+D:\Projects\Github\SudokuAIO\x64\Debug\SudokuAIO.exe

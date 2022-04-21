@@ -283,7 +283,7 @@ bool stateBox(int arr[sizeArr][sizeArr][sizeArr][sizeArr]) {
 	}
 }
 
-// Prints the entier array (grid) in the console
+// Prints the entire array (grid) in the console
 void printBox(int arr[sizeArr][sizeArr][sizeArr][sizeArr]) {
 
 	for (int i = 0; i < 3; i++)
@@ -303,7 +303,7 @@ void printBox(int arr[sizeArr][sizeArr][sizeArr][sizeArr]) {
 	}
 }
 
-// Fills the entier array (grid) with 0
+// Fills the entire array (grid) with 0
 void flushBox(int arr[sizeArr][sizeArr][sizeArr][sizeArr]) {
 
 	for (int i = 0; i < sizeArr; i++)
@@ -321,7 +321,7 @@ void flushBox(int arr[sizeArr][sizeArr][sizeArr][sizeArr]) {
 	}
 }
 
-// Fills the entier array (grid) with numbers from 1 - 9, in each box, row & column
+// Fills the entire array (grid) with numbers from 1 - 9, in each box, row & column
 void fillBox(int arr[sizeArr][sizeArr][sizeArr][sizeArr]) {
 
 	int xPos, yPos, clearCount = 0;
